@@ -1,0 +1,1 @@
+2010년도 여아이름 10위권:['Isabella', 'Sophia', 'Emma', 'Olivia', 'Ava', 'Emily', 'Abigail', 'Madison', 'Chloe', 'Mia'], 남아이름 10위권:['Jacob', 'Ethan', 'Michael', 'Jayden', 'William', 'Alexander', 'Noah', 'Daniel', 'Aiden', 'Anthony']

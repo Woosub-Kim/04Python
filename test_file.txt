@@ -1,0 +1,4 @@
+Hello python!
+Hello world!
+Python is fun!
+python programming
